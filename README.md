@@ -39,7 +39,7 @@ Node.js와 RDB를 이용하여 회원관리 및 운동 능력 기록 앱을 만�
 
 ## 하이퍼클라우드 - 커뮤니티 어플리케이션 만들기
 
-👉 [GitHub Repo](https://github.com/J-EUM/pre-onboarding-3rd-hypercloud)
+👉 [GitHub Repo](https://github.com/WorkYong/pre_onboarding-2week-1st)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp;
@@ -56,7 +56,7 @@ Node.js와 RDB를 이용하여 회원관리 및 운동 능력 기록 앱을 만�
 
 ## 룰루랩 - 병원 예약 시스템 구축
 
-👉 [GitHub Repo](https://github.com/J-EUM/pre-onboarding-4th-lululab)
+👉 [GitHub Repo](https://github.com/WorkYong/hospital-reservation-app-server)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;
