@@ -50,11 +50,11 @@ Node.js와 RDB를 이용하여 회원관리 및 운동 능력 기록 앱을 만�
 
 - 개발기간: 2022.10.11 - 2022.10.14 (3일)
 - 개발인원: BE 4명
-- 담당기능: 로그인 기능
+- 담당기능: 로그인 & 회원가입 기능
 
 ---
 
-## 룰루랩 - 로그인 & 회원가입
+## 룰루랩 - 병원 예약 시스템 구축
 
 👉 [GitHub Repo](https://github.com/WorkYong/hospital-reservation-app-server)
 
